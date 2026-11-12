@@ -5,7 +5,7 @@ Single-page company website for **Kamil Węglarz Tanacetum V**, hosted on GitHub
 ## Structure
 
 - `index.html` — page content
-- `styles.css` — styles (light and dark via `prefers-color-scheme`)
+- `styles.css` — dark cyan theme with orange accents
 - `.nojekyll` — serves files as-is, without Jekyll processing
 
 No build step, no external requests.
